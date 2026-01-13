@@ -29,8 +29,10 @@ export default function DeleteAccount() {
                             <h3 className="font-bold text-white text-lg">Option 1: In-App Deletion (Instant)</h3>
                             <p>
                                 1. Open the mVPN App.<br />
-                                2. Go to <strong>Settings</strong> <strong>Account</strong>.<br />
-                                3. Tap on "Delete Account" and confirm.
+                                2. Go to <strong>Settings</strong>.<br />
+                                3. Scroll down to the <strong>Danger Zone</strong>.<br />
+                                4. Tap <strong>Delete Account</strong>.<br />
+                                5. Enter your password to confirm.
                             </p>
                         </div>
 
